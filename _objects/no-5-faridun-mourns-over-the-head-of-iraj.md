@@ -3,7 +3,7 @@ layout: default
 title: "No. 5 Faridun mourns over the head of Iraj"
 order: 5
 section: 1
-permalink: ' /explore/objects/no-5-faridun-mourns-over-the-head-of-iraj'
+permalink: '/explore/objects/no-5-faridun-mourns-over-the-head-of-iraj'
 ---
 ![{{page.title}}]({{site.baseurl}}/images/pages/{{page.order}}.jpeg){: .img-fluid }
 

@@ -3,7 +3,7 @@ layout: default
 title: "No.4 Zahhak enthroned"
 order: 4
 section: 1
-permalink: ' /explore/objects/no-4-zahhak-enthroned'
+permalink: '/explore/objects/no-4-zahhak-enthroned'
 ---
 ![{{page.title}}]({{site.baseurl}}/images/pages/{{page.order}}.jpeg){: .img-fluid }
 

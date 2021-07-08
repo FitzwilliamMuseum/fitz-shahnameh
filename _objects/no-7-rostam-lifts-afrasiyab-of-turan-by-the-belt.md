@@ -2,7 +2,7 @@
 layout: default
 title: "No. 7 Rostam lifts Afrasiyab of Turan by the belt"
 order: 7
-permalink: ' /explore/objects/no-7-rostam-lifts-afrasiyab-of-turan-by-the-belt'
+permalink: '/explore/objects/no-7-rostam-lifts-afrasiyab-of-turan-by-the-belt'
 ---
 ![{{page.title}}]({{site.baseurl}}/images/pages/{{page.order}}.jpeg){: .img-fluid }
 
