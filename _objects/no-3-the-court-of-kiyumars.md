@@ -3,7 +3,7 @@ layout: default
 title: "No. 3 The court of Kiyumars"
 order: 3
 section: 1
-permalink: ' /explore/objects/no-3-the-court-of-kiyumars'
+permalink: '/explore/objects/no-3-the-court-of-kiyumars'
 ---
 ![{{page.title}}]({{site.baseurl}}/images/pages/{{page.order}}.jpeg){: .img-fluid }
 
