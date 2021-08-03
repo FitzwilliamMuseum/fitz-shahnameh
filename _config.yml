@@ -22,8 +22,8 @@ title: "The Shahnameh: a Persian Cultural Emblem and a Timeless Masterpiece"
 email: "dejp3@cam.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
   "The most important creation of New Persian literature – the Shahnameh, or the ‘Book of Kings’ – has been defined as the national epic of the Iranian people, their ‘identity card’ (shenas-nameh) and an encyclopaedia of Iranian culture. It celebrates the survival of a civilization that originated some 7,000 years ago at a dynamic crossroads of cultures, the Iranian Plateau, extended at its peak from Anatolia and the Caucasus across Transoxiana to China, withstood countless invasions, absorbed diverse influences, and conquered its conquerors by virtue of its timeless values."
-baseurl: "/shahnameh" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://shahnameh.fitzmuseum.cam.ac.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
 background: "/images/folio_page.jpg"
