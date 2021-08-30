@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "Ferdowsi: the Poet and the Legend"
+permalink: /ferdowsi
+image: /images/pages/79.jpeg
 ---
 
 Ferdowsi is widely regarded as the preserver of the Persian language and of pre-Islamic Iranian cultural identity. Of all the peoples conquered by the Arabs in the seventh century, the Persians are the only ones who can boast a major literature in the indigenous language that they were using before the conquest. When asked recently why the vast majority of Egyptians, the heirs to a great pre-Islamic civilization, speak Arabic rather than Coptic, a leading Egyptian historian replied: ‘Because we had no Ferdowsi.’

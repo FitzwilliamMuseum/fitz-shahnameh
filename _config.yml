@@ -27,6 +27,7 @@ url: "https://shahnameh.fitzmuseum.cam.ac.uk" # the base hostname & protocol for
 twitter_username: FitzMuseum_UK
 github_username:  fitzwilliammuseum
 background: "/images/folio_page.jpg"
+google_analytics: 'G-2R0YLY9DRS'
 # Build settings
 plugins:
   - jekyll-feed
@@ -43,21 +44,11 @@ plugins:
 collections:
    objects:
      output: true
-   exhibition:
-      output: true
    explore:
       output: true
-   about:
+   content:
       output: true
-   resources:
-      output: true
-   team:
-      output: true
-   blog:
-      output: true
-feed:
-  collections:
-    - blog
+
 
 timezone: Europe/London
 permalink: pretty

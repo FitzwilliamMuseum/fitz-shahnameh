@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "The Shahnameh: a Literary Masterpiece"
+permalink: /literary
+image: /images/pages/74.jpeg
 ---
 
 The Shahnameh is the longest poem ever written by a single author, but length can hardly account for its enduring fame. Ferdowsi’s role in the formation of the Persian language and literary culture is similar to that of Goethe for the Germans, of Pushkin for the Russians, or of Shakespeare for the English-speaking world.

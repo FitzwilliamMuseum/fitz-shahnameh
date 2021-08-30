@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "Structure and Themes: Myth, Legend and History"
+permalink: /structure-and-themes
+image: /images/pages/81.jpeg
 ---
 ![]({{site.baseurl}}/images/pages/81.jpeg)
 

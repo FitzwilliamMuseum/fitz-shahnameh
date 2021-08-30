@@ -1,6 +1,8 @@
 ---
 layout: default
 title: 'The Revival of the Imperial Dream: Princely Patronage and the Art of the Shahnameh'
+permalink: /princely-patronage
+image: /images/pages/16.jpeg
 ---
 
 The Revival of the Imperial Dream: Princely Patronage and the Art of the Shahnameh
