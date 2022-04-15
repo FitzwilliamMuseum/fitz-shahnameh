@@ -1,5 +1,7 @@
 # The Shahnameh - A Fitzwilliam Museum exhibition
 
+[![DOI](https://zenodo.org/badge/383236753.svg)](https://zenodo.org/badge/latestdoi/383236753)
+
 ![Social card](https://repository-images.githubusercontent.com/383236753/1f657fc7-f1e6-433e-8ba4-52509f4c383c)
 
 The most important creation of New Persian literature – the Shahnameh, or the ‘Book of Kings’ – has been defined as the national epic of the Iranian people, their ‘identity card’ (shenas-nameh) and an encyclopaedia of Iranian culture. It celebrates the survival of a civilization that originated some 7,000 years ago at a dynamic crossroads of cultures, the Iranian Plateau, extended at its peak from Anatolia and the Caucasus across Transoxiana to China, withstood countless invasions, absorbed diverse influences, and conquered its conquerors by virtue of its timeless values.
